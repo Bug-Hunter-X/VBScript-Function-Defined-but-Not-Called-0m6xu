@@ -1,0 +1,1 @@
+This repository demonstrates a simple but easily overlooked error in VBScript: defining a function without ever calling it.  The code includes a function `f` that compares two numbers, but it lacks a call to execute the function. This results in the script seemingly doing nothing. The solution shows how to correct this by adding a function call.
